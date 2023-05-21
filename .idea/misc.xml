@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Project/Fiverr/VITEATS/app/src/main/res/drawable/baseline_person_24.xml" value="0.22552083333333334" />
+        <entry key="..\:/Project/Fiverr/VITEATS/app/src/main/res/drawable/baseline_remove_red_eye_24.xml" value="0.22552083333333334" />
+        <entry key="..\:/Project/Fiverr/VITEATS/app/src/main/res/drawable/baseline_warning_24.xml" value="0.22552083333333334" />
+        <entry key="..\:/Project/Fiverr/VITEATS/app/src/main/res/drawable/edttextround.xml" value="0.22552083333333334" />
+        <entry key="..\:/Project/Fiverr/VITEATS/app/src/main/res/drawable/ic_location_on.xml" value="0.22552083333333334" />
+        <entry key="..\:/Project/Fiverr/VITEATS/app/src/main/res/drawable/ic_round.xml" value="0.22552083333333334" />
+        <entry key="..\:/Project/Fiverr/VITEATS/app/src/main/res/drawable/pressedbutton.xml" value="0.22552083333333334" />
+        <entry key="..\:/Project/Fiverr/VITEATS/app/src/main/res/layout/activity_home.xml" value="0.209375" />
+        <entry key="..\:/Project/Fiverr/VITEATS/app/src/main/res/layout/activity_main.xml" value="0.2344763670064875" />
+        <entry key="..\:/Project/Fiverr/VITEATS/app/src/main/res/layout/activity_register.xml" value="0.209375" />
+        <entry key="..\:/Project/Fiverr/VITEATS/app/src/main/res/layout/activity_review.xml" value="0.1953125" />
+        <entry key="..\:/Project/Fiverr/VITEATS/app/src/main/res/layout/activity_review_details.xml" value="0.1953125" />
+        <entry key="..\:/Project/Fiverr/VITEATS/app/src/main/res/layout/list_card_design_resturant.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

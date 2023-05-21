@@ -1,0 +1,233 @@
+[
+  {
+    "id": "1",
+    "restaurant_name": "Pasta Palace",
+    "cuisine_type": "Italian",
+    "address": {
+      "street": "123 Main Street",
+      "city": "Anytown",
+      "state": "CA",
+      "zip": "12345"
+    },
+    "ratings": [
+      {
+        "username": "john_doe",
+        "rating": 4,
+        "comment": "Great pasta and wine!"
+      },
+      {
+        "username": "jane_doe",
+        "rating": 5,
+        "comment": "Delicious food and romantic atmosphere."
+      }
+    ],
+    "image_url": "https://www.example.com/images/best_burger.jpg"
+  },
+  {
+    "id": "2",
+    "restaurant_name": "Mama's Kitchen",
+    "cuisine_type": "Homestyle",
+    "address": {
+      "street": "456 Main Street",
+      "city": "Anytown",
+      "state": "CA",
+      "zip": "12345"
+    },
+    "ratings": [
+      {
+        "username": "john_doe",
+        "rating": 5,
+        "comment": "The best comfort food in town!"
+      },
+      {
+        "username": "jane_doe",
+        "rating": 4,
+        "comment": "Great food and friendly service."
+      }
+    ],
+    "image_url": "https://www.example.com/images/best_burger.jpg"
+  },
+  {
+    "id": "3",
+    "restaurant_name": "Sushi Spot",
+    "cuisine_type": "Japanese",
+    "address": {
+      "street": "789 Main Street",
+      "city": "Anytown",
+      "state": "CA",
+      "zip": "12345"
+    },
+    "ratings": [
+      {
+        "username": "john_doe",
+        "rating": 4,
+        "comment": "Good sushi and fast service."
+      },
+      {
+        "username": "jane_doe",
+        "rating": 5,
+        "comment": "Fresh sushi and great presentation."
+      }
+    ],
+    "image_url": "https://www.example.com/images/best_burger.jpg"
+  },
+  {
+    "id": "4",
+    "restaurant_name": "Taste of India",
+    "cuisine_type": "Indian",
+    "address": {
+      "street": "321 Main Street",
+      "city": "Anytown",
+      "state": "CA",
+      "zip": "12345"
+    },
+    "ratings": [
+      {
+        "username": "john_doe",
+        "rating": 5,
+        "comment": "Authentic flavors and great service!"
+      },
+      {
+        "username": "jane_doe",
+        "rating": 3,
+        "comment": "Average food and slow service."
+      }
+    ],
+    "image_url": "https://www.example.com/images/best_burger.jpg"
+  },
+  {
+    "id": "5",
+    "restaurant_name": "Bistro 22",
+    "cuisine_type": "French",
+    "address": {
+      "street": "234 Main Street",
+      "city": "Anytown",
+      "state": "CA",
+      "zip": "12345"
+    },
+    "ratings": [
+      {
+        "username": "john_doe",
+        "rating": 5,
+        "comment": "Delicious French cuisine and attentive service!"
+      },
+      {
+        "username": "jane_doe",
+        "rating": 4,
+        "comment": "Great food and cozy atmosphere."
+      }
+    ],
+    "image_url": "https://www.example.com/images/best_burger.jpg"
+  },
+  {
+    "id": "6",
+    "restaurant_name": "Taco Haven",
+    "cuisine_type": "Mexican",
+    "address": {
+      "street": "567 Main Street",
+      "city": "Anytown",
+      "state": "CA",
+      "zip": "12345"
+    },
+    "ratings": [
+      {
+        "username": "john_doe",
+        "rating": 3,
+        "comment": "Decent tacos but not the best I've had."
+      },
+      {
+        "username": "jane_doe",
+        "rating": 4,
+        "comment": "Good Mexican food and friendly staff."
+      }
+    ],
+    "image_url": "https://www.example.com/images/best_burger.jpg"
+  },
+  {
+    "id": "7",
+    "restaurant_name": "Burger Barn",
+    "cuisine_type": "American",
+    "address": {
+      "street": "890 Main Street",
+      "city": "Anytown",
+      "state": "CA",
+      "zip": "12345"
+    },
+    "ratings": [
+      {
+        "username": "john_doe",
+        "rating": 4,
+        "comment": "Delicious burgers and fries!"
+      },
+      {
+        "username": "jane_doe",
+        "rating": 2,
+        "comment": "Average food and slow service."
+      }
+    ],
+    "image_url": "https://www.example.com/images/best_burger.jpg"
+  },
+  {
+    "id": "8",
+    "restaurant_name": "Pho King",
+    "cuisine_type": "Vietnamese",
+    "address": {
+      "street": "246 Main Street",
+      "city": "Anytown",
+      "state": "CA",
+      "zip": "12345"
+    },
+    "ratings": [
+      {
+        "username": "john_doe",
+        "rating": 5,
+        "comment": "The best pho in town!"
+      },
+      {
+        "username": "jane_doe",
+        "rating": 4,
+        "comment": "Good food and reasonable prices."
+      }
+    ],
+    "image_url": "https://www.example.com/images/best_burger.jpg"
+  },
+  {
+    "id": "9",
+    "restaurant_name": "Sushi Garden",
+    "cuisine_type": "Japanese",
+    "address": {
+      "street": "369 Main Street",
+      "city": "Anytown",
+      "state": "CA",
+      "zip": "12345"
+    },
+    "ratings": [
+      {
+        "username": "john_doe",
+        "rating": 4,
+        "comment": "Great sushi and friendly service."
+      },
+      {
+        "username": "jane_doe",
+        "rating": 3,
+        "comment": "Average sushi and slow service."
+      }
+    ],
+    "image_url": "https://www.example.com/images/best_burger.jpg"
+  },
+  {
+    "id": "10",
+    "restaurant_name": "Curry House",
+    "cuisine_type": "Indian",
+    "address": {
+      "street": "135 Main Street",
+      "city": "Anytown",
+      "state": "CA",
+      "zip": "12345"
+    },
+    "ratings": [
+
+    ],
+    "image_url": "https://www.example.com/images/best_burger.jpg"
+  }
+]

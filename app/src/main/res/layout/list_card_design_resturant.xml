@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/root"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_marginBottom="@dimen/_2sdp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:id="@+id/Cardroot"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:padding="4dp"
+        android:background="@color/white"
+        android:orientation="horizontal"
+        android:weightSum="3">
+
+    <ImageView
+        android:id="@+id/img_room"
+        android:layout_weight="1"
+        android:layout_width="0dp"
+        android:scaleType="centerCrop"
+        android:paddingRight="4dp"
+        android:layout_height="match_parent"
+        android:src="@drawable/back"/>
+
+        <LinearLayout
+            android:layout_weight="2"
+            android:weightSum="5"
+            android:orientation="vertical"
+            android:layout_width="0dp"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_weight="2"
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+                <TextView
+                    android:id="@+id/tv_title"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Pearl Continental Hotel"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/_15sdp"/>
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <ImageView
+                        android:id="@+id/iv_location"
+                        android:layout_width="30dp"
+                        android:layout_height="20dp"
+                        android:src="@drawable/ic_location_on" />
+                    <TextView
+                        android:id="@+id/tv_address"
+                        android:layout_toRightOf="@id/iv_location"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Mall Road Lahore"
+                        android:textColor="@color/black"
+                        android:textSize="@dimen/_8sdp"/>
+                </RelativeLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal"
+                    android:weightSum="5">
+                    <androidx.appcompat.widget.AppCompatRatingBar
+                        android:progressBackgroundTint="@color/purple_200"
+                        android:progressTint="@color/purple_500"
+                        android:secondaryProgressTint="@color/purple_700"
+                        android:layout_weight="1.8"
+                        android:id="@+id/tv_stars"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:numStars="5"
+                        android:stepSize=".5"
+                        style="@style/RatingBar"
+                        android:layout_marginEnd="15dp"/>
+
+                    <TextView
+                        android:layout_weight="1"
+                        android:layout_gravity="center"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:text="Rating"
+                        android:textAllCaps="true"
+                        android:textColor="@color/black"
+                        android:textSize="@dimen/_8sdp"/>
+                    <TextView
+                        android:id="@+id/tv_reviews"
+                        android:layout_weight="2.2"
+                        android:layout_gravity="center"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:text="2"
+                        android:textAllCaps="true"
+                        android:textColor="@color/black"
+                        android:textSize="@dimen/_8sdp"/>
+                </LinearLayout>
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+</LinearLayout>
